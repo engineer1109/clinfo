@@ -1,0 +1,2 @@
+# clinfo
+clinfo with cmake
